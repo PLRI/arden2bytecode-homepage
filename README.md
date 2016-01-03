@@ -1,5 +1,7 @@
-Website for the Arden2ByteCode project
+Website for the Arden2ByteCode project (Deprecated!)
 ======================================
+
+*Deprecated as the homepage is now hosted via [GitHub Pages](https://pages.github.com/) as a [branch of the arden2bytecode repository](https://github.com/PLRI/arden2bytecode/tree/gh-pages).*
 
 Accessible here: <http://arden2bytecode.sf.net>
 
